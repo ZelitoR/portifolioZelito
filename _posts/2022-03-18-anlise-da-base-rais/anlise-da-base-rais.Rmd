@@ -4,7 +4,6 @@ description: |
   Essa análise teve como objetivo analisar os saláriso na base RAIS.
 author:
   - name: Zelito
-    url: https://example.com/norajones
 date: 2022-03-18
 output:
   distill::distill_article:

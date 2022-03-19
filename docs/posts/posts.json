@@ -23,14 +23,14 @@
     "author": [
       {
         "name": "Zelito",
-        "url": "https://example.com/norajones"
+        "url": {}
       }
     ],
     "date": "2022-03-18",
     "categories": [],
     "contents": "\r\nEsse é o meu primeiro projeto no portfólio.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-03-18T22:37:45-03:00",
+    "last_modified": "2022-03-18T22:42:34-03:00",
     "input_file": "anlise-da-base-rais.knit.md"
   }
 ]
