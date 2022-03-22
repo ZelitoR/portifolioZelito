@@ -38,3 +38,5 @@ plot(mtcars$mpg,mtcars$hp)
 
 ## Código em linha
 Hoje é o dia `r Sys.Date()`.
+
+1:14:00
