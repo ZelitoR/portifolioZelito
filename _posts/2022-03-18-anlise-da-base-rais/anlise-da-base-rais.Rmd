@@ -10,11 +10,31 @@ output:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Esse é o meu primeiro projeto no portfólio.
+Esse é o meu **primeiro projeto** no portfólio.
 
+## Código em R
 
+```{r echo=TRUE}
+# aqui a gente coloca o código em R
+1 + 1
+
+```
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+## Tabela:
+```{r}
+knitr::kable(mtcars)
+```
+## Imagem/gráfico:
+```{r, out.width="90%",fig.align='center',dpi=600,fig.cap="Grafico da base mtcars"}
+plot(mtcars$mpg,mtcars$hp)
+```
+
+## Código em linha
+Hoje é o dia `r Sys.Date()`.
