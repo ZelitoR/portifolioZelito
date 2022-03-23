@@ -1,7 +1,7 @@
 ---
 title: "Análise da base RAIS"
 description: |
-  Essa análise teve como objetivo analisar os saláriso na base RAIS.
+  Essa análise teve como objetivo analisar os salários na base RAIS.
 author:
   - name: Zelito
 date: 2022-03-18
